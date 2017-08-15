@@ -34,15 +34,13 @@ Machine Learning and Natural Language Processing (NLP) professional with over 1 
 <h4>Biography</h4>
 <p>
 I'm a M.S. student at the Department of Computer Science and Technology, Chongqing University (CQU), under the supervision of Prof. <a href="http://yz.cqu.edu.cn/view_teacher.php?tid=14025">Yunni Xia</a> since Fall 2015. Previously, I received my bachelor degree in Chongqing University (CQU) in June, 2015.
-
+<br/>
 My research interests include natural language processing, machine learning and deep learning.
 </p>
 
 <h4>Recent Highlights</h4>
 {% for post in site.papers %}
-  {% if post.selected %}
-    {% include paper.html paper=post %}
-  {% endif %}
+  {% include publications.html paper=post %}
 {% endfor %}
 
 
