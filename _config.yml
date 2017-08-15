@@ -1,32 +1,5 @@
 exclude: ['README.md']
 timezone: US/Eastern
-talks:
-  -
-    title: Compact adaptable translation models on GPUs
-    detail: Talk at Google, 2013.
-    url: "http://www.cs.jhu.edu/~alopez/talks/gpus-oct2013-google.pdf"
-    img: "google-talk.jpg"
-  -
-    title: Learning to translate with products of novices
-    detail: Talk at Information Science Institute, 2013.
-    url: "http://www.cs.jhu.edu/~alopez/talks/mt-class-isi.pdf"
-    img: "isi-talk.jpg"
-    video: http://webcasterms1.isi.edu/mediasite/SilverlightPlayer/Default.aspx?peid=ea55185170054e13972a0ea5b932eb6c1d
-  -
-    title: Integrated parsing and tagging
-    detail: Talk at IBM Research, 2012.
-    url: http://www.cs.jhu.edu/~alopez/talks/integrated-parsing-and-tagging_lopez.pdf
-    img: "ibm-talk.jpg"
-  -
-    title: Semiring parsing without parsing
-    detail: Talk at Oxford, Cambridge, and Johns Hopkins, 2010.
-    url: http://www.cs.jhu.edu/~alopez/talks/oxford.pdf
-    img: "oxford-talk.jpg"
-  -
-    title: Translation model search spaces
-    detail: Talk at Dublin City University and Saarland University, 2009.
-    url: http://www.cs.jhu.edu/~alopez/talks/saarland.pdf
-    img: "saarland-talk.jpg"
 papers:
   - layout: paper
     year: 2017
