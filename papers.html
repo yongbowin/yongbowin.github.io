@@ -1,0 +1,14 @@
+---
+layout: default
+title: Yongbo Wang | Publications
+picture: levitated-mass
+---
+<div class="page-header">
+  <h3>Publications</h3>
+<blockquote><i>Life is short and art is long.<br/>&mdash;Sophocles</i></blockquote>
+</div>
+
+{% for post in site.papers %}
+  {% include papers.html paper=post %}
+{% endfor %}
+
