@@ -1,0 +1,6 @@
+_drafts
+_site
+.*swp
+*tar
+.DS_Store
+
