@@ -34,6 +34,9 @@
       {{ include.paper.note }} 
     {% endif %}
     <br/>
+    {% if include.paper.doc-url %}
+     <a href="{{ include.paper.doc-url }}" class="label label-success">PDF</a>
+    {% endif %}
     {% if include.paper.abstract %}
       <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->
