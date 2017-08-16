@@ -11,7 +11,6 @@ papers:
     booktitle-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     doc-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     venue: workshop
-    pdf: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     abstract: >
         Growing demand of computational power brings increasing scale and complexity of cloud datacenters.
         However, such increase also generates growing energy consumption and related cost incurred for cooling
@@ -41,7 +40,6 @@ papers:
     booktitle-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     doc-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     venue: workshop
-    pdf: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     abstract: >
       Performance evaluation of cloud data-centers has drawn considerable attention from academy and industry. 
       In this study, we present an analytical approach to the performance analysis of Infrastructure-as-a-Service 
