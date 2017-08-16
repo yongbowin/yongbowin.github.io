@@ -7,7 +7,7 @@ papers:
     img: ICIOT2016
     title: An energy-aware and under-SLA-constraints VM consolidation strategy based on the optimal matching method
     authors: Weiling Li, <span class="color-blue">Yongbo Wang</span>, Yuandou Wang, Yunni Xia, Kunyin Guo, Quanwang Wu, Qingsheng Zhu
-    booktitle: International Journal of Web Services Research Volume 14, Issue 4 (IJWSR)
+    booktitle: International Journal of Web Services Research Volume 14, Issue 4 (<strong>IJWSR</strong>)
     booktitle-url: 
     venue: workshop
   - layout: paper
@@ -16,7 +16,7 @@ papers:
     img: ICIOT2016
     title: "Stochastic performance analysis of unreliable IaaS clouds"
     authors: <span class="color-blue">YongBuo Wang</span>, HaiChuan Zhang, KunYin Guo, Yunni Xia*, WeiLing Li
-    booktitle: "Proceedings of S2 International Conference on Internet of Things (ICIOT)"
+    booktitle: "Proceedings of S2 International Conference on Internet of Things (<strong>ICIOT</strong>)"
     booktitle-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     doc-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     venue: workshop
