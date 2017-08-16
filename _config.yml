@@ -4,7 +4,7 @@ papers:
   - layout: paper
     year: 2017
     paper-type: inproceedings
-    img: ICIOT2016
+    img: IJWSR2017
     title: An energy-aware and under-SLA-constraints VM consolidation strategy based on the optimal matching method
     authors: Weiling Li, <span class="color-blue">Yongbo Wang</span>, Yuandou Wang, Yunni Xia, Kunyin Guo, Quanwang Wu, Qingsheng Zhu
     booktitle: International Journal of Web Services Research Volume 14, Issue 4 (<strong>IJWSR</strong>)
