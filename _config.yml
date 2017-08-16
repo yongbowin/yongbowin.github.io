@@ -8,8 +8,27 @@ papers:
     title: An energy-aware and under-SLA-constraints VM consolidation strategy based on the optimal matching method
     authors: Weiling Li, <span class="color-blue">Yongbo Wang</span>, Yuandou Wang, Yunni Xia, Kunyin Guo, Quanwang Wu, Qingsheng Zhu
     booktitle: International Journal of Web Services Research Volume 14, Issue 4 (<strong>IJWSR</strong>)
-    booktitle-url: 
+    booktitle-url: papers/An Energy-Aware and Under-SLA-Constraints VM Consolidation Strategy Based on the Optimal Matching Method.pdf
     venue: workshop
+    abstract: >
+        Growing demand of computational power brings increasing scale and complexity of cloud datacenters.
+        However, such increase also generates growing energy consumption and related cost incurred for cooling
+        and maintenance. With concerns of cost and energy saving by both industry and academy, the reduction of
+        energy consumption of cloud datacenters becomes a hotspot issue. Recently, virtual-machine-consolidationbased
+        strategies are proposed as promising methods for reduction of cloud energy consumption. Virtual
+        machine (VM) consolidation effectively increases the resource utilization rate. However, it remains a
+        great challenge how to reduce energy consumption while maintaining the quality of service (QoS) at a
+        satisfactory level. In this work, a comprehensive framework is presented for the above-mentioned problem,
+        which aims at maximizing the number of physical machines (PMs) to be turned off within a consolidation
+        period following the constraints of QoS, in terms of Service-Level-Agreement (SLA) violation rate. In
+        comparison with most existing related works which consider invariant utilization rate of PMs in computing
+        energy reduction of candidate migration plans, propose framework considers time-varying utilization rate
+        and employs the number of PMs to be turned off within a consolidation period (NPTCP for simple) as
+        the optimization objective. The proposed framework consists of a resource selection algorithm taking the
+        predicted migration overhead (derived by the Pareto distribution) as inputs and another algorithm generating
+        optimal matching plans based on preference scores of candidate VMs. For the model validation purpose,
+        a case study is conducted on the CloudSim simulation platform and it shows that the proposed method
+        achieves better energy reduction and less SLA violation.
   - layout: paper
     year: 2016
     paper-type: inproceedings
@@ -21,4 +40,9 @@ papers:
     doc-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     venue: workshop
     abstract: >
-      Performance evaluation of cloud data-centers has drawn considerable attention from academy and industry. In this study, we present an analytical approach to the performance analysis of Infrastructure-as-a-Service cloud data-centers with unreliable task executions and resubmissions of unsuccessful tasks. Several performance metrics are considered and analyzed under variable load intensities, failure frequencies, multiplexing abilities, and service intensities. We also conduct a case study based on a real-world cloud data-center and employ a confidence interval check to validate the correctness of the proposed model. 
+      Performance evaluation of cloud data-centers has drawn considerable attention from academy and industry. 
+      In this study, we present an analytical approach to the performance analysis of Infrastructure-as-a-Service 
+      cloud data-centers with unreliable task executions and resubmissions of unsuccessful tasks. Several 
+      performance metrics are considered and analyzed under variable load intensities, failure frequencies, 
+      multiplexing abilities, and service intensities. We also conduct a case study based on a real-world cloud 
+      data-center and employ a confidence interval check to validate the correctness of the proposed model. 
