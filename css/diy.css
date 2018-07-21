@@ -1,3 +1,7 @@
+* {
+  font-family: "Times New Roman";
+  font-size: 16px;
+}
 h4 {
   color: #527bbd;
   margin-top: 0.7em;
@@ -7,9 +11,12 @@ h4 {
   padding-top: 0.5em;
   /* border-bottom: 1px solid #eee; */
   font-weight: normal;
+  font-family: "Times New Roman";
 }
 h3 {
   color: #527bbd;
+  font-size: 24px!important;
+  font-family: "Times New Roman";
 }
 .color-blue {
   color: #224b8d;
