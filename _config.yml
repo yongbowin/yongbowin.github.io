@@ -35,7 +35,7 @@ papers:
     paper-type: inproceedings
     img: ICIOT2016
     title: "Stochastic performance analysis of unreliable IaaS clouds"
-    authors: <span class="color-blue">YongBuo Wang</span>, HaiChuan Zhang, KunYin Guo, Yunni Xia*, WeiLing Li
+    authors: <span class="color-blue">YongBo Wang</span>, HaiChuan Zhang, KunYin Guo, Yunni Xia*, WeiLing Li
     booktitle: "Proceedings of S2 International Conference on Internet of Things (<strong>ICIOT</strong>)"
     booktitle-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
     doc-url: papers/Stochastic performance analysis of unreliable IaaS clouds.pdf
