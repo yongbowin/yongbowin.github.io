@@ -2,6 +2,25 @@ exclude: ['README.md']
 timezone: US/Eastern
 papers:
   - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    img: WSDM2018
+    title: "NAIRS: A Neural Attentive Interpretable Recommendation System"
+    authors: Shuai Yu, <span class="color-blue">Yongbo Wang</span>, Min Yang, Baocheng Li, Qiang Qu, Jialie Shen
+    booktitle: ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>) (demo paper)
+    booktitle-url: papers/WSDM_demos_2018_paper.pdf
+    doc-url: papers/WSDM_demos_2018_paper.pdf
+    venue: workshop
+    abstract: >
+        Growing In this paper, we develop a neural attentive interpretable recommendation system, named NAIRS. 
+        A self-attention network, as a key component of the system, is designed to assign attention weights to 
+        interacted items of a user. This attention mechanism can distinguish the importance of the various interacted 
+        items in contributing to a user profile. Based on the user profiles obtained by the self-attention network, 
+        NAIRS offers personalized high-quality recommendation. Moreover, it develops visual cues to interpret recommendations. 
+        This demo application with the implementation of NAIRS enables users to interact with a recommendation system, 
+        and it persistently collects training data to improve the system. The demonstration and experimental results show 
+        the effectiveness of NAIRS.
+  - layout: paper
     year: 2017
     paper-type: inproceedings
     img: IJWSR2017
